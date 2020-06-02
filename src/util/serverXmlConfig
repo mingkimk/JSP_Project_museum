@@ -1,0 +1,8 @@
+<Context docBase="JSP_Project_museum" path="/JSP_Project_museum"
+					reloadable="true" source="org.eclipse.jst.jee.server:JSP_Project_museum">
+					<Resource auth="Container"
+						driverClassName="oracle.jdbc.OracleDriver" maxIdle="10"
+						maxTotal="20" maxWaitMillis="-1" name="jdbc/myoracle"
+						password="11111111" type="javax.sql.DataSource"
+						url="jdbc:oracle:thin:@127.0.0.1:1521:orcl" username="system" />
+				</Context>

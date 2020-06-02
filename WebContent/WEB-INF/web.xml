@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+  <servlet>
+    <description></description>
+    <display-name>BasketServlet</display-name>
+    <servlet-name>BasketServlet</servlet-name>
+    <servlet-class>controll.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>BasketServlet</servlet-name>
+    <url-pattern>/BasketServlet</url-pattern>
+  </servlet-mapping>
+  <display-name>JSP_Project_museum</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <servlet-name>CommentServlet</servlet-name>
+    <servlet-class>controll.CommentServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ReCommentDAO</servlet-name>
+    <servlet-class>dao.ReCommentDAO</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>controll.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CommentServlet</servlet-name>
+    <url-pattern>/CommentServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ReCommentDAO</servlet-name>
+    <url-pattern>/ReCommentDAO</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
