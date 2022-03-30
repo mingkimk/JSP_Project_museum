@@ -1,5 +1,17 @@
 # JSP_Project_museum
+>외국 미술관 사이트에서 아이디어를 얻어 시작하게된 프로젝트 입니다.    
+전시 티켓 구매와 관람 전시에 대한 리뷰 작성 프로젝트입니다.
 
+# 사용 기술
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-47A248?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> </p>
 
 <img src="https://user-images.githubusercontent.com/62271939/83611058-67f81380-a5bb-11ea-8570-af1e93b01112.PNG"  width="90%"></img>
 <img src="https://user-images.githubusercontent.com/62271939/83612023-ca054880-a5bc-11ea-9a1d-faafb8c73849.PNG"  width="90%"></img>
